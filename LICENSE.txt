@@ -1,0 +1,156 @@
+VOLPI BETA LICENCE AGREEMENT
+
+Version 0.1, 7 October 2026
+Copyright (c) 2026 Subhradeep Sarkar. All rights reserved.
+
+This is an agreement between you and Subhradeep Sarkar ("the Author"). It
+covers the Volpi desktop app, its installers, its documentation and any
+update the Author gives you ("Volpi"). By choosing "Agree" in Volpi, or by
+installing or using Volpi, you accept this agreement. If you do not accept it,
+do not install or use Volpi.
+
+
+1. Your licence
+
+The Author gives you a personal, limited, non-exclusive licence to install
+Volpi on devices you own or control and to use it for your own study, research
+and writing, including work you do for an employer, university or other
+organisation. The licence cannot be transferred or sublicensed. Each person
+needs their own licence. An organisation that wants to give Volpi to its
+staff or students should ask the Author first.
+
+While Volpi is in beta, the licence is free of charge.
+
+
+2. What you may not do
+
+You may not:
+
+ - copy Volpi, except to install it on your own devices and to keep one backup;
+ - give, sell, rent, lend, host or share Volpi or its installers with others.
+   Tell people to get it from the Author's official download page instead;
+ - take Volpi apart, decompile it or try to recover its source code, or change
+   it, except as far as the law allows you to despite this clause;
+ - remove or hide its copyright or licence notices;
+ - use the name Volpi, the fox seal or the Mochi artwork as your own, or in a
+   way that suggests the Author endorses you;
+ - use Volpi to break the law or other people's rights.
+
+
+3. Open-source software in Volpi
+
+Volpi includes software written by other people. That software stays under its
+own licences, which are listed in the file THIRD_PARTY_NOTICES.txt and in
+Volpi itself (Home, "Licence"). Nothing in this agreement takes away rights
+those licences give you.
+
+
+4. Your files and your privacy
+
+Your files are yours, and the Author claims no rights in them. This includes
+what you write, import, highlight, chart and export with Volpi. Volpi works on
+folders on your computer ("branches"). Your files stay readable without Volpi.
+
+The Author does not collect your files, your name or how you use Volpi. Volpi
+has no account, no analytics and no tracking, and it does not upload your
+files anywhere.
+
+Volpi contacts the internet only to look up or check a reference at Crossref,
+OpenAlex, arXiv or PubMed. By default it does so only when you press a button.
+If you choose Automatic in the reference library, it also does so after you
+import a paper, and if you choose Off it never does. A lookup sends a DOI, an arXiv or PubMed
+number, or a title or short citation, and never the contents of a file. Like
+any web request, it shows your IP address to that database, and the database's
+own terms and privacy policy apply to what it receives. The Author is not
+responsible for what those services do or for what they return.
+
+Links you open from Volpi go to your web browser.
+
+
+5. This is a beta
+
+Volpi is an open beta. It can contain errors, and features can change or be
+removed. Keep your own backups of your branches. Revert, Undo and crash
+recovery help, but they are not a backup.
+
+Volpi reads references, checks them against databases and reads tables from
+PDFs. These are aids and can be wrong. Check the results yourself before you
+rely on them.
+
+The Author does not have to provide updates, support or any new version, and
+may end the beta or stop offering Volpi. A copy you have installed keeps
+working on your computer for as long as you follow this agreement.
+
+The beta is free. Later versions may cost money. The licence in section 1 is
+for the beta and does not carry over to a later version that is sold. This
+agreement does not promise that any later version will be free.
+
+
+6. Your responsibility for your work
+
+You are responsible for your own work, including what you write, cite and
+publish with Volpi, and for following the rules of your university,
+publisher, funder or employer. Volpi does not check your work for accuracy,
+plagiarism or academic integrity.
+
+
+7. Feedback
+
+If you send the Author a bug report, idea or other feedback, the Author may
+use it freely, without paying you or crediting you. Do not put confidential or
+personal data in a report, and remember that a report posted on a public page
+can be read by anyone.
+
+
+8. No warranty
+
+TO THE EXTENT THE LAW ALLOWS, VOLPI IS PROVIDED "AS IS" AND "AS AVAILABLE",
+WITHOUT ANY WARRANTY OR PROMISE, EXPRESS OR IMPLIED. THAT INCLUDES ANY PROMISE
+THAT IT WORKS WITHOUT ERRORS OR INTERRUPTION, THAT IT KEEPS YOUR DATA SAFE,
+THAT IT IS ACCURATE, OR THAT IT SUITS A PARTICULAR PURPOSE.
+
+
+9. Limit of liability
+
+TO THE EXTENT THE LAW ALLOWS, THE AUTHOR IS NOT LIABLE FOR LOST OR DAMAGED
+FILES OR DATA, LOST TIME, WORK OR PROFIT, OR ANY INDIRECT OR CONSEQUENTIAL
+LOSS ARISING FROM YOUR USE OF VOLPI, EVEN IF THE AUTHOR WAS TOLD IT MIGHT
+HAPPEN. THE AUTHOR'S TOTAL LIABILITY TO YOU FOR ALL CLAIMS IS LIMITED TO THE
+AMOUNT YOU PAID FOR VOLPI, WHICH FOR THE BETA IS NOTHING.
+
+Nothing in this agreement limits liability that cannot be limited by law, such
+as liability for fraud, or for death or personal injury caused by negligence,
+or any consumer rights that cannot be waived.
+
+
+10. Ownership
+
+The Author keeps all rights in Volpi, including its name, the fox seal and the
+Mochi artwork. You get only the licence in section 1, and no other right is
+given or implied. The name Volpi is a working name and may change.
+
+
+11. Ending this agreement
+
+This agreement ends if you break it. You may end it at any time by deleting
+Volpi. When it ends, stop using Volpi and delete your copies. Your files are
+not affected. Sections 2, 3, 6, 7, 8, 9, 10, 11 and 12 continue after it ends.
+
+
+12. General
+
+This is the whole agreement about Volpi between you and the Author. If part of
+it cannot be enforced, the rest still applies. If the Author does not enforce
+a part of it straight away, the Author can still do so later. You may not
+transfer this agreement to anyone else. The Author may transfer it to a
+successor of the Volpi project.
+
+This agreement is governed by the law of India, and the courts at Kolkata,
+West Bengal, India, can hear disputes about it, unless the law where you live
+gives you the right to go to court there instead.
+
+A new version of Volpi may come with an updated agreement, shown to you before
+you use that version. If you do not accept it, you can keep using the version
+you already have under the agreement that came with it.
+
+Questions about this agreement can go to support.volpi@gmail.com.

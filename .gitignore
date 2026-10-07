@@ -1,0 +1,7 @@
+# Installers are attached to GitHub Releases, never committed.
+*.zip
+*.exe
+*.dmg
+*.deb
+*.rpm
+.DS_Store
