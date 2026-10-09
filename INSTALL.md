@@ -47,5 +47,11 @@ other folder. Removing Volpi does not remove your branches.
 
 ## Updating
 
-Download the new zip and install over the old version. Your branches and settings stay as
-they are.
+From Volpi 0.1.1, Home checks for new versions in the background. The button at the
+bottom right says **Updated** when this version is current. When it says **Update
+available**, choose it, then **Update and restart**. Updates are checked before they are
+installed, and your branches stay on your computer.
+
+You can also download the newest zip and install it over the old version; your branches
+and settings stay as they are. Volpi 0.1.0 has no updater, so it needs this one manual
+upgrade.

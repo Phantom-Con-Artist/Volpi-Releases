@@ -2,6 +2,33 @@
 
 Newest version first. The same notes are in the update log on Volpi's Home screen.
 
+## 0.1.1 (Open Beta), 2026-10-09
+
+Faster navigation, steadier PDF pages and charts, safer saving, and updates from Home.
+
+### New in this version
+
+- **Quicker return to files.** Unchanged PDFs, datasets, pictures and papers reuse previously loaded work. Notes and other text files avoid sending their whole contents again when nothing changed.
+- **Steadier PDF pages.** Recently used PDF pages and selectable text stay ready for a return visit. Linux page drawing avoids the blank-page problem seen when switching files or resizing the window.
+- **Lighter charts and tables.** Chart options reuse prepared data. The Data view keeps its place, shows only nearby editable rows and opens a cell editor when you focus it.
+- **Calmer floating controls.** Menus fit the window edges before they appear. Dropdowns, dialogs and sheets open at their full size without the opening fade or scale.
+- **Safer edits and imports.** Conflict copies keep continued typing, recovery problems are shown, outside edits stay in history, and Word papers import with their pictures as one change.
+- **Lighter research graph.** Graph labels reuse their measured widths when you pan or zoom, instead of measuring the same names every time.
+- **Updates from Home.** Home checks for new versions in the background. Use Updated or Update available at the bottom right to check again or install an update and restart.
+
+### What Volpi does
+
+- **Remembered PDF navigation.** Completed PDF navigation, reference text and table locations are kept on this device for later visits. A changed PDF is checked again.
+- **Signed updates.** Updates are checked before installation. Choose Update and restart from Home when you are ready. The original 0.1.0 beta needs one manual upgrade.
+- **Reusable loaded files.** Recently closed files can reuse their prepared pages, data, pictures or paper bodies within memory limits. First visits and files no longer kept in memory still need loading.
+
+### Known issues
+
+- **Research graph restart.** An occasional return to Home has been reported but not reproduced. If it happens again, include the steps and terminal messages in a bug report.
+- **Complex paper layouts.** Oversized blocks and table cells spanning pages still need further checks. Image decoding and export limits also remain under review.
+- **Update platform checks.** Linux update packages have been built and signed. Windows and macOS installation and a complete update from an older installed version still need platform testing.
+- **First visits still load.** Keeping recently used files reduces repeated work, but very large files and first visits can still take time. There is no complete workspace preload.
+
 ## 0.1.0 (Open Beta), 2026-10-07
 
 The first open beta. Read, link, cite and write in plain folders on your computer.
